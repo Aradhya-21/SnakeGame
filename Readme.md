@@ -35,9 +35,17 @@ Note: Ensure that the pygame window opens in a separate window when running in J
 ## 🎮 Controls
 Arrow Keys – Move snake (Up, Down, Left, Right)
 
-# 🚧 Future Improvements
+## 🚧 Future Improvements
 Add pause and restart options
 
 Include difficulty levels
 
 High score tracking using file/database
+
+
+## 🤝 Contributing
+Contributions, issues and feature requests are welcome!
+
+## 📄 License
+This project is for educational purposes. Feel free to modify and use it as needed.
+
