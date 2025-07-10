@@ -1,7 +1,7 @@
-## 🐍 Snake Game - Jupyter Notebook Version
+# 🐍 Snake Game - Jupyter Notebook Version
 This project is a simple implementation of the classic Snake Game using Python. It runs inside a Jupyter Notebook and utilizes the pygame library for game development.
 
-# 📁 Project Structure
+## 📁 Project Structure
 Snake.py.ipynb - Main Jupyter Notebook containing the complete game code.
 
 # 🧠 Features
